@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of swaggymacro/clean-profile-posts.** Not for installation: use [Packagist](https://packagist.org/packages/swaggymacro/clean-profile-posts) or the [upstream repository](https://github.com/SwaggyMacro/clean-profile-posts).
 
-**0** versions archived · Latest: [`0.2.2`](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.2.2) · License: `MIT` · Flarum: `^1.0.0`
+**5** versions archived · Latest: [`0.2.2`](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.2.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-09-14 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-09-17 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.1.1) |
+| `0.2.0` | 2018-12-27 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.2.0) |
+| `0.2.1` | 2018-12-27 | `^0.1.0-beta-8` | [Browse](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.2.1) |
+| `0.2.2` | 2022-04-03 | `^1.0.0` | [Browse](https://github.com/flarchive/swaggymacro-clean-profile-posts/tree/archive/v0.2.2) |
 
 Catalog entry: [packages/swaggymacro-clean-profile-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/swaggymacro-clean-profile-posts.json)
 
